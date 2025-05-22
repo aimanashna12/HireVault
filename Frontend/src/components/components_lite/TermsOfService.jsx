@@ -7,7 +7,7 @@ const TermsOfService = () => {
 
       <h2>1. Introduction</h2>
       <p>
-        Welcome to HireSphere. These Terms and Conditions govern your
+        Welcome to Hire Vault. These Terms and Conditions govern your
         use of our website. By accessing or using
         our website, you agree to comply with these terms.
       </p>
@@ -37,14 +37,14 @@ const TermsOfService = () => {
       <h2>5. Intellectual Property</h2>
       <p>
         All content, trademarks, and other intellectual property on the website
-        are owned by or licensed to HireSphere. You may not reproduce,
+        are owned by or licensed to Hire Vault. You may not reproduce,
         distribute, or create derivative works from any content without our
         express written permission.
       </p>
 
       <h2>6. Limitation of Liability</h2>
       <p>
-        To the fullest extent permitted by law, HireSphere shall not be
+        To the fullest extent permitted by law, Hire Vault shall not be
         liable for any direct, indirect, incidental, special, consequential, or
         punitive damages arising from your use of the website.
       </p>
@@ -60,7 +60,7 @@ const TermsOfService = () => {
       <h2>8. Contact Information</h2>
       <p>
         If you have any questions about these Terms and Conditions, please
-        contact us at hiresphere@gmail.com.
+        contact us at hirevault@gmail.com.
       </p>
     </div>
   );

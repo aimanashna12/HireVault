@@ -40,7 +40,7 @@ const Navbar = () => {
         <div>
           <h1 className="text-2xl font-bold">
             <span className="text-[#6B3AC2]">Hire</span>{" "}
-            <span className="text-[#FA4F09]">Sphere</span>
+            <span className="text-[#FA4F09]">Vault</span>
           </h1>
         </div>
         <div className="flex items-center gap-10">

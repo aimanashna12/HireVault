@@ -81,7 +81,7 @@ const PrivacyPolicy = () => {
       <h2>8. Contact Us</h2>
       <p>
         If you have any questions about this Privacy Policy, please contact us
-        at hiresphere@gmail.com.
+        at hirevault@gmail.com.
       </p>
     </div>
   );
